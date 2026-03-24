@@ -28,7 +28,13 @@ The objective of this project is to analyze Adidas sales data using Power BI in 
 
 ![Adidas dashboard img](https://github.com/user-attachments/assets/1ae8b6c3-d7cb-4e0e-8ab1-43db273e5bb6)
 
+## Project Ingight
+-	A limited number of retailers contribute a significant portion of total revenue.
+-	Certain regions consistently outperform others, indicating geographic concentration of sales.
+-	Specific product categories generate higher revenue and profit margins.
+-	Sales performance varies across different sales methods, with some channels outperforming others.
+-	Time-based analysis reveals identifiable trends and seasonal patterns in sales.
 
-
-
-
+## Final Conclusion:
+The Power BI dashboard provides a structured and interactive approach to analyzing Adidas sales data. It highlights key performance drivers such as regional demand, product performance, and retailer contribution.
+The insights derived from this analysis can support strategic decisions in areas such as sales optimization, inventory management, and market expansion. The use of Power BI enhances the ability to monitor business performance efficiently and respond effectively to emerging trends.
