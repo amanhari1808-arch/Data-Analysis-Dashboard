@@ -15,7 +15,7 @@ The objective of this project is to analyze Adidas sales data using Power BI in 
 -	Which sales method is the most effective?
 - What are the monthly and yearly sales trends?
 
--Dashboard Interaction <a href="https://github.com/amanhari1808-arch/Data-Analysis-Dashboard/blob/main/Adidas%20dashboard.img.jpg">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/amanhari1808-arch/Data-Analysis-Dashboard/blob/main/Adidas%20dashboard.img.jpg">View Dashboard</a>
 
 ## Process
 - Imported the dataset into Microsoft Power BI Desktop.
@@ -25,6 +25,8 @@ The objective of this project is to analyze Adidas sales data using Power BI in 
 - Designed an interactive dashboard using charts, KPIs, and slicers for analysis.
 
 ## Dashboard
+
+![Adidas dashboard img](https://github.com/user-attachments/assets/1ae8b6c3-d7cb-4e0e-8ab1-43db273e5bb6)
 
 
 
