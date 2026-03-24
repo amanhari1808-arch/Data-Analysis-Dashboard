@@ -25,7 +25,6 @@ The objective of this project is to analyze Adidas sales data using Power BI in 
 - Designed an interactive dashboard using charts, KPIs, and slicers for analysis.
 
 ## Dashboard
-
 ![Adidas dashboard img](https://github.com/user-attachments/assets/1ae8b6c3-d7cb-4e0e-8ab1-43db273e5bb6)
 
 ## Project Ingight
